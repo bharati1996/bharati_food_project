@@ -1,0 +1,9 @@
+{
+    "1": {
+        "Food_Name": "sun",
+        "Quantity": "55",
+        "Price": 3.0,
+        "Discount": 4.0,
+        "Stock": 12
+    }
+}
